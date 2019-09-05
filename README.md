@@ -37,7 +37,7 @@ Tracking support for single hand.
     <img src="https://github.com/mchandak29/robotic-palm/blob/master/Screenshot%20from%202019-08-02%2015-40-24.png", width="480">
 </p>
 
-## Team members:
+## Team Members
 - Varshil Gandhi
 - Aniket Agrawal
 - Mohit Chandak
